@@ -1,0 +1,37 @@
+{
+  "name": "DATA KEPENDUDUKAN",
+  "short_name": "DATA PENDUDUK",
+  "description": "Web Aplikasi Data Penduduk Yang Dapat Dikelola Dengan Mudah",
+  "icons": [
+      {
+          "src": "static/icons/favicon1.ico",
+          "sizes": "32x32",
+          "type": "image/png"
+      },
+      {
+          "src": "/static/icons/favicon1.ico",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "/static/icons/favicon1.ico",
+          "sizes": "512x512",
+          "type": "image/png"
+      },
+      {
+          "src": "/static/icons/favicon1.ico",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any maskable"
+      },
+      {
+          "src": "/static/icons/favicon1.ico",
+          "sizes": "180x180",
+          "type": "image/png"
+      }
+  ],
+  "start_url": "https://penduduk.alimochtar.my.id",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF"
+}
